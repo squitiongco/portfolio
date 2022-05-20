@@ -7,7 +7,7 @@ body {
     position: relative;
     background: transparent;
   }
-  
+
   body::before {
     content: "";
     position: fixed;
@@ -19,3 +19,5 @@ body {
     height: 100vh;
     z-index: -1;
   }
+
+  
